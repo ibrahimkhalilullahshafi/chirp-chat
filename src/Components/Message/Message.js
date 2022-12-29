@@ -8,4 +8,4 @@ const Message = () => {
     );
 };
 
-export default Message; <h1>This is message</h1>
+export default Message; 

@@ -8,4 +8,4 @@ const Media = () => {
     );
 };
 
-export default Media; <h1>This is media</h1>
+export default Media; 
